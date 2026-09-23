@@ -1,5 +1,5 @@
 ---
-title: "cloover7.github.io-1"
+title: "cloover7.github.io"
 ---
 
 This is a Quarto website.
