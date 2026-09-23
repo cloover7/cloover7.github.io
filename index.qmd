@@ -1,7 +1,15 @@
 ---
-title: "cloover7.github.io"
+title: "Erin Minsuh Yang"
+about:
+  template: trestles
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm6nAqbYPCBnNwvXUPK2Tv3WCjAj7zrcQNe7KKrMUezjP-5V6L3mRF44X3ggSbPBOz53sGLuNUnYIZGrs9JGWOleifYM1Mjb8dMP8lceY&s=10
+  links:
+    - icon: github
+      text: Github
+      href: /https://github.com/cloover7
+      target: _blank
+    - text: Email
+      href: mailto:erinyang@ucsb.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+bio!
