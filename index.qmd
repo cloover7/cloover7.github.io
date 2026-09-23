@@ -6,7 +6,7 @@ about:
   links:
     - icon: github
       text: Github
-      href: /https://github.com/cloover7
+      href: https://github.com/cloover7
       target: _blank
     - text: Email
       href: mailto:erinyang@ucsb.edu
