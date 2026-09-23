@@ -1,7 +1,7 @@
 ---
 title: "Erin Minsuh Yang"
 about:
-  template: trestles
+  template: jolla
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm6nAqbYPCBnNwvXUPK2Tv3WCjAj7zrcQNe7KKrMUezjP-5V6L3mRF44X3ggSbPBOz53sGLuNUnYIZGrs9JGWOleifYM1Mjb8dMP8lceY&s=10
   links:
     - icon: github
