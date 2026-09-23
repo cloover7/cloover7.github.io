@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "cloover7.github.io-1"
+  title: "Erin Yang's Personal Website"
   navbar:
     left:
       - href: index.qmd
@@ -17,6 +17,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
